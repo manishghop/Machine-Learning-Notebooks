@@ -2,6 +2,7 @@
 Practicing ML algorithms on various Kaggle Datasets
 
 <p> In the 2nd notebook file, suv dataset, the accuracy increased by 20% by using Standard Scaler</p>
+
 ## Titanic Dataset
 Famous Kaggle competition using Titanic Dataset, where we predict whether a set of passengers will survivve on the titanic ship.
 
